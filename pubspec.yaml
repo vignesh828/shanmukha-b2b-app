@@ -1,0 +1,31 @@
+name: temp_project
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.17.8
+  cloud_firestore: ^4.15.8
+  firebase_storage: ^11.5.6
+  image_picker: ^1.0.4
+  provider: ^6.1.1
+  intl: ^0.19.0
+  pdf: ^3.10.7
+  printing: ^5.11.1
+  cached_network_image: ^3.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

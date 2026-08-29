@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801784689445",
+    "project_id": "shanmukha-app",
+    "storage_bucket": "shanmukha-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801784689445:android:8142feaa9f35c6d385a0cc",
+        "android_client_info": {
+          "package_name": "com.example.temp_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801784689445-fjobbg9f50cvthdmt84s17mt9ile1po5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6kEf5aulibdZU9s-A_7A6aSx_zXJEUmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801784689445-fjobbg9f50cvthdmt84s17mt9ile1po5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
